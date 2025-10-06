@@ -97,7 +97,7 @@ body{
       display: flex;
       flex-direction: column;
       position: absolute;
-      left: -2%;
+      left: -1.5%;
       top: 5%;
       transition: .3s ease;
       overflow: hidden;
@@ -171,4 +171,5 @@ body{
     }
 
 }
+
 
