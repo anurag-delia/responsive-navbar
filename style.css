@@ -167,7 +167,8 @@ body{
     }
 
     #check:checked~.navbar{
-        height: 200px;
+        height: 210px;
     }
 
 }
+
