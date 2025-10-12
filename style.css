@@ -10,7 +10,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    background: url(Fish_Corals_615134_1920x1200.jpg) no-repeat;
+    background: url(37948173_er_1.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -170,7 +170,13 @@ body{
         height: 200px;
     }
 
+
+    body{
+       background-position: left;
+    background-size: cover;
+    }
 }
+
 
 
 
